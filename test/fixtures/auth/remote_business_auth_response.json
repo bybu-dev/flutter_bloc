@@ -1,0 +1,8 @@
+{
+    "status": true,
+    "data": {
+        "id": "123456",
+        "account_type": "Personal",
+        "accessToken": "00000000"
+    }
+}

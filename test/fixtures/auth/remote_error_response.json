@@ -1,0 +1,6 @@
+{
+    "status": false,
+    "error": [
+        { "field": "email", "message": "email is not valid" }
+    ]
+}

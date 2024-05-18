@@ -1,0 +1,31 @@
+{
+  "id": "123456",
+  "account_type": "Personal",
+  "personal_information": {
+    "access_token": "accessToken",
+    "email": "email",
+    "name": "name"
+  },
+  "business_information": {
+    "business_name": "Jude Business",
+    "contact_phone_number": "2347011111111",
+    "business_address": "No 10 General Close",
+    "business_website": "string.com",
+    "business_type": "Corporation",
+    "source_of_fund": "string",
+    "purpose_of_account": "string",
+    "proof_of_business": [],
+    "verification_status": "Pending"
+  },
+  "kyc_information": {
+    "verification_status": "Pending",
+    "verification_document": []
+  },
+  "setting": {
+    "email_reminder": true,
+    "pop_up_notification": true,
+    "is_information_editable": true
+  },
+  "created_at": "2023-01-01 00:00:00.000",
+  "updated_at": "2023-01-01 00:00:00.000"
+}

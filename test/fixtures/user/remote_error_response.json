@@ -1,0 +1,6 @@
+{
+    "status": false,
+    "error": [
+        { "message": "authorization token is missing" }
+    ]
+}
